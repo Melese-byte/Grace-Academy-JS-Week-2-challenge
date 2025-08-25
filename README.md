@@ -11,6 +11,9 @@ Challenge one Sample output
 
 Challenge Two Sample output
 
+<img width="679" height="568" alt="image" src="https://github.com/user-attachments/assets/d2eda783-ea39-4f75-aeb3-9b48b60c6457" />
+
+
 <img width="859" height="528" alt="image" src="https://github.com/user-attachments/assets/3211ee67-5f01-449d-8d8f-85cc07c29980" />
 
 
